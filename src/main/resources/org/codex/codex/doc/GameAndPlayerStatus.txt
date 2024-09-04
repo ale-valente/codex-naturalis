@@ -1,0 +1,43 @@
+/*
+3. lo status di game e player sono utili per memorizzare il gioco su disco e per la comunicazione socket
+    perche per la comunicazione RMI basta che mando l'oggetto e sono a posto
+
+ */
+
+// STATUS DI OGNI GAME
+/*
+Game -> {
+    boolean isStarted
+    int maxNumPlayers
+    ResourceCardDeck resourceCardDeck
+    GoldCardDeck goldCardDeck
+    StarterCardDeck starterCardDeck
+    int resourceCardDeckIndex
+    int goldCardDeckIndex
+    int starterCardDeckIndex
+    ResourceCard publicResourceCard1
+    ResourceCard publicResourceCard2
+    GoldCard publicGoldCard1
+    GoldCard publicGoldCard2
+    HashMap<String, Player> player
+}
+ */
+
+
+// STATUS DI OGNI CLIENT/PLAYER
+/*
+Player -> {
+    ArrayList<ArrayList<Box>> table
+    ArrayList<ResourceCard> resourceHand
+    ArrayList<GoldCard> goldHand
+    StarterCard starterCard
+    ArrayList<int[]> handCoordinates
+    HashMap<GoldCard, ArrayList<int[]>> goldHandCoordinates
+    int points
+    HashMap<String, Integer> numResOnTable
+    int viewStartX
+    int viewEndX
+    int viewStartY
+    int viewEndY
+}
+ */
