@@ -1,0 +1,205 @@
+{
+  "0" : {
+    "front":{"topLeft":"animals", "topRight":"animals", "bottomLeft":"blank", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"animals", "points":0
+  },
+  "1" : {
+    "front":{"topLeft":"", "topRight":"blank", "bottomLeft":"animals", "bottomRight":"animals"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"animals", "points":0
+  },
+  "2" : {
+    "front":{"topLeft":"animals", "topRight":"", "bottomLeft":"animals", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"animals", "points":0
+  },
+  "3" : {
+    "front":{"topLeft":"blank", "topRight":"animals", "bottomLeft":"", "bottomRight":"animals"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"animals", "points":0
+  },
+  "4" : {
+    "front":{"topLeft":"", "topRight":"insects", "bottomLeft":"ink", "bottomRight":"animals"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"animals", "points":0
+  },
+  "5" : {
+    "front":{"topLeft":"vegetables", "topRight":"animals", "bottomLeft":"", "bottomRight":"parchment"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"animals", "points":0
+  },
+  "6" : {
+    "front":{"topLeft":"feather", "topRight":"", "bottomLeft":"animals", "bottomRight":"mushrooms"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"animals", "points":0
+  },
+  "7" : {
+    "front":{"topLeft":"", "topRight":"blank", "bottomLeft":"animals", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"animals", "points":1
+  },
+  "8" : {
+    "front":{"topLeft":"blank", "topRight":"", "bottomLeft":"blank", "bottomRight":"animals"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"animals", "points":1
+  },
+  "9" : {
+    "front":{"topLeft":"blank", "topRight":"animals", "bottomLeft":"blank", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"animals", "points":1
+  },
+
+  "10" : {
+    "front":{"topLeft":"mushrooms", "topRight":"blank", "bottomLeft":"mushrooms", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"mushrooms", "points":0
+  },
+  "11" : {
+    "front":{"topLeft":"mushrooms", "topRight":"mushrooms", "bottomLeft":"", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"mushrooms", "points":0
+  },
+  "12" : {
+    "front":{"topLeft":"blank", "topRight":"", "bottomLeft":"mushrooms", "bottomRight":"mushrooms"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"mushrooms", "points":0
+  },
+  "13" : {
+    "front":{"topLeft":"", "topRight":"mushrooms", "bottomLeft":"blank", "bottomRight":"mushrooms"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"mushrooms", "points":0
+  },
+  "14" : {
+    "front":{"topLeft":"", "topRight":"feather", "bottomLeft":"vegetables", "bottomRight":"mushrooms"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"mushrooms", "points":0
+  },
+  "15" : {
+    "front":{"topLeft":"ink", "topRight":"mushrooms", "bottomLeft":"", "bottomRight":"animals"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"mushrooms", "points":0
+  },
+  "16" : {
+    "front":{"topLeft":"mushrooms", "topRight":"insects", "bottomLeft":"parchment", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"mushrooms", "points":0
+  },
+  "17" : {
+    "front":{"topLeft":"blank", "topRight":"mushrooms", "bottomLeft":"blank", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"mushrooms", "points":1
+  },
+  "18" : {
+    "front":{"topLeft":"mushrooms", "topRight":"", "bottomLeft":"blank", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"mushrooms", "points":1
+  },
+  "19" : {
+    "front":{"topLeft":"", "topRight":"blank", "bottomLeft":"mushrooms", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"mushrooms", "points":1
+  },
+
+  "20" : {
+    "front":{"topLeft":"insects", "topRight":"insects", "bottomLeft":"blank", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"insects", "points":0
+  },
+  "21" : {
+    "front":{"topLeft":"", "topRight":"blank", "bottomLeft":"insects", "bottomRight":"insects"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"insects", "points":0
+  },
+  "22" : {
+    "front":{"topLeft":"insects", "topRight":"", "bottomLeft":"insects", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"insects", "points":0
+  },
+  "23" : {
+    "front":{"topLeft":"blank", "topRight":"insects", "bottomLeft":"", "bottomRight":"insects"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"insects", "points":0
+  },
+  "24" : {
+    "front":{"topLeft":"", "topRight":"feather", "bottomLeft":"animals", "bottomRight":"insects"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"insects", "points":0
+  },
+  "25" : {
+    "front":{"topLeft":"parchment", "topRight":"insects", "bottomLeft":"", "bottomRight":"mushrooms"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"insects", "points":0
+  },
+  "26" : {
+    "front":{"topLeft":"insects", "topRight":"vegetables", "bottomLeft":"ink", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"insects", "points":0
+  },
+  "27" : {
+    "front":{"topLeft":"insects", "topRight":"", "bottomLeft":"blank", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"insects", "points":1
+  },
+  "28" : {
+    "front":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"", "bottomRight":"insects"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"insects", "points":1
+  },
+  "29" : {
+    "front":{"topLeft":"", "topRight":"insects", "bottomLeft":"blank", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"insects", "points":1
+  },
+
+  "30" : {
+    "front":{"topLeft":"vegetables", "topRight":"blank", "bottomLeft":"vegetables", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"vegetables", "points":0
+  },
+  "31" : {
+    "front":{"topLeft":"vegetables", "topRight":"vegetables", "bottomLeft":"", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"vegetables", "points":0
+  },
+  "32" : {
+    "front":{"topLeft":"blank", "topRight":"", "bottomLeft":"vegetables", "bottomRight":"vegetables"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"vegetables", "points":0
+  },
+  "33" : {
+    "front":{"topLeft":"", "topRight":"vegetables", "bottomLeft":"blank", "bottomRight":"vegetables"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"vegetables", "points":0
+  },
+  "34" : {
+    "front":{"topLeft":"", "topRight":"insects", "bottomLeft":"feather", "bottomRight":"vegetables"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"vegetables", "points":0
+  },
+  "35" : {
+    "front":{"topLeft":"mushrooms", "topRight":"vegetables", "bottomLeft":"", "bottomRight":"ink"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"vegetables", "points":0
+  },
+  "36" : {
+    "front":{"topLeft":"parchment", "topRight":"", "bottomLeft":"vegetables", "bottomRight":"animals"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"vegetables", "points":0
+  },
+  "37" : {
+    "front":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"vegetables", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"vegetables", "points":1
+  },
+  "38" : {
+    "front":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"", "bottomRight":"vegetables"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"vegetables", "points":1
+  },
+  "39" : {
+    "front":{"topLeft":"", "topRight":"vegetables", "bottomLeft":"blank", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"vegetables", "points":1
+  }
+}

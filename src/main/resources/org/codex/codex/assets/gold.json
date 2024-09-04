@@ -1,0 +1,245 @@
+{
+  "0" : {
+    "front":{"topLeft":"ink", "topRight":"blank", "bottomLeft":"blank", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"animals", "points":1,
+    "pointsRes":"ink", "requiredRes":["animals", "animals", "insects"]
+  },
+  "1" : {
+    "front":{"topLeft":"", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"parchment"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"animals", "points":1,
+    "pointsRes":"parchment", "requiredRes":["animals", "animals", "vegetables"]
+  },
+  "2" : {
+    "front":{"topLeft":"blank", "topRight":"", "bottomLeft":"feather", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"animals", "points":1,
+    "pointsRes":"feather", "requiredRes":["animals", "animals", "mushrooms"]
+  },
+  "3" : {
+    "front":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"animals", "points":2,
+    "pointsRes":"blank", "requiredRes":["animals", "animals", "animals", "insects"]
+  },
+  "4" : {
+    "front":{"topLeft":"blank", "topRight":"", "bottomLeft":"blank", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"animals", "points":2,
+    "pointsRes":"blank", "requiredRes":["animals", "animals", "animals", "mushrooms"]
+  },
+  "5" : {
+    "front":{"topLeft":"", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"animals", "points":2,
+    "pointsRes":"blank", "requiredRes":["animals", "animals", "animals", "vegetables"]
+  },
+  "6" : {
+    "front":{"topLeft":"blank", "topRight":"", "bottomLeft":"parchment", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"animals", "points":3,
+    "pointsRes":"", "requiredRes":["animals", "animals", "animals"]
+  },
+  "7" : {
+    "front":{"topLeft":"blank", "topRight":"ink", "bottomLeft":"", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"animals", "points":3,
+    "pointsRes":"", "requiredRes":["animals", "animals", "animals"]
+  },
+  "8" : {
+    "front":{"topLeft":"", "topRight":"blank", "bottomLeft":"", "bottomRight":"feather"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"animals", "points":3,
+    "pointsRes":"", "requiredRes":["animals", "animals", "animals"]
+  },
+  "9" : {
+    "front":{"topLeft":"", "topRight":"blank", "bottomLeft":"", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"animals", "points":5,
+    "pointsRes":"", "requiredRes":["animals", "animals", "animals", "animals", "animals"]
+  },
+
+  "10" : {
+    "front":{"topLeft":"", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"feather"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"mushrooms", "points":1,
+    "pointsRes":"feather", "requiredRes":["mushrooms", "mushrooms", "animals"]
+  },
+  "11" : {
+    "front":{"topLeft":"blank", "topRight":"ink", "bottomLeft":"", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"mushrooms", "points":1,
+    "pointsRes":"ink", "requiredRes":["mushrooms", "mushrooms", "vegetables"]
+  },
+  "12" : {
+    "front":{"topLeft":"parchment", "topRight":"blank", "bottomLeft":"blank", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"mushrooms", "points":1,
+    "pointsRes":"parchment", "requiredRes":["mushrooms", "mushrooms", "insects"]
+  },
+  "13" : {
+    "front":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"mushrooms", "points":2,
+    "pointsRes":"blank", "requiredRes":["mushrooms", "mushrooms", "mushrooms", "animals"]
+  },
+  "14" : {
+    "front":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"mushrooms", "points":2,
+    "pointsRes":"blank", "requiredRes":["mushrooms", "mushrooms", "mushrooms", "vegetables"]
+  },
+  "15" : {
+    "front":{"topLeft":"blank", "topRight":"", "bottomLeft":"blank", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"mushrooms", "points":2,
+    "pointsRes":"blank", "requiredRes":["mushrooms", "mushrooms", "mushrooms", "insects"]
+  },
+  "16" : {
+    "front":{"topLeft":"blank", "topRight":"", "bottomLeft":"ink", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"mushrooms", "points":3,
+    "pointsRes":"", "requiredRes":["mushrooms", "mushrooms", "mushrooms"]
+  },
+  "17" : {
+    "front":{"topLeft":"feather", "topRight":"blank", "bottomLeft":"", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"mushrooms", "points":3,
+    "pointsRes":"", "requiredRes":["mushrooms", "mushrooms", "mushrooms"]
+  },
+  "18" : {
+    "front":{"topLeft":"", "topRight":"parchment", "bottomLeft":"", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"mushrooms", "points":3,
+    "pointsRes":"", "requiredRes":["mushrooms", "mushrooms", "mushrooms"]
+  },
+  "19" : {
+    "front":{"topLeft":"blank", "topRight":"", "bottomLeft":"blank", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"mushrooms", "points":5,
+    "pointsRes":"", "requiredRes":["mushrooms", "mushrooms", "mushrooms", "mushrooms", "mushrooms"]
+  },
+
+  "20" : {
+    "front":{"topLeft":"blank", "topRight":"feather", "bottomLeft":"", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"insects", "points":1,
+    "pointsRes":"feather", "requiredRes":["insects", "insects", "vegetables"]
+  },
+  "21" : {
+    "front":{"topLeft":"blank", "topRight":"", "bottomLeft":"parchment", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"insects", "points":1,
+    "pointsRes":"parchment", "requiredRes":["insects", "insects", "animals"]
+  },
+  "22" : {
+    "front":{"topLeft":"", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"ink"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"insects", "points":1,
+    "pointsRes":"ink", "requiredRes":["insects", "insects", "mushrooms"]
+  },
+  "23" : {
+    "front":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"insects", "points":2,
+    "pointsRes":"blank", "requiredRes":["insects", "insects", "insects", "animals"]
+  },
+  "24" : {
+    "front":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"insects", "points":2,
+    "pointsRes":"blank", "requiredRes":["insects", "insects", "insects", "vegetables"]
+  },
+  "25" : {
+    "front":{"topLeft":"blank", "topRight":"", "bottomLeft":"blank", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"insects", "points":2,
+    "pointsRes":"blank", "requiredRes":["insects", "insects", "insects", "mushrooms"]
+  },
+  "26" : {
+    "front":{"topLeft":"ink", "topRight":"", "bottomLeft":"blank", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"insects", "points":3,
+    "pointsRes":"", "requiredRes":["insects", "insects", "insects"]
+  },
+  "27" : {
+    "front":{"topLeft":"blank", "topRight":"parchment", "bottomLeft":"", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"insects", "points":3,
+    "pointsRes":"", "requiredRes":["insects", "insects", "insects"]
+  },
+  "28" : {
+    "front":{"topLeft":"", "topRight":"", "bottomLeft":"feather", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"insects", "points":3,
+    "pointsRes":"", "requiredRes":["insects", "insects", "insects"]
+  },
+  "29" : {
+    "front":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"insects", "points":5,
+    "pointsRes":"", "requiredRes":["insects", "insects", "insects", "insects", "insects"]
+  },
+
+  "30" : {
+    "front":{"topLeft":"feather", "topRight":"blank", "bottomLeft":"blank", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"vegetables", "points":1,
+    "pointsRes":"feather", "requiredRes":["vegetables", "vegetables", "insects"]
+  },
+  "31" : {
+    "front":{"topLeft":"blank", "topRight":"parchment", "bottomLeft":"", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"vegetables", "points":1,
+    "pointsRes":"parchment", "requiredRes":["vegetables", "vegetables", "mushrooms"]
+  },
+  "32" : {
+    "front":{"topLeft":"blank", "topRight":"", "bottomLeft":"ink", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"vegetables", "points":1,
+    "pointsRes":"ink", "requiredRes":["vegetables", "vegetables", "animals"]
+  },
+  "33" : {
+    "front":{"topLeft":"", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"vegetables", "points":2,
+    "pointsRes":"blank", "requiredRes":["vegetables", "vegetables", "vegetables", "insects"]
+  },
+  "34" : {
+    "front":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"vegetables", "points":2,
+    "pointsRes":"blank", "requiredRes":["vegetables", "vegetables", "vegetables", "animals"]
+  },
+  "35" : {
+    "front":{"topLeft":"blank", "topRight":"", "bottomLeft":"blank", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"vegetables", "points":2,
+    "pointsRes":"blank", "requiredRes":["vegetables", "vegetables", "vegetables", "mushrooms"]
+  },
+  "36" : {
+    "front":{"topLeft":"blank", "topRight":"", "bottomLeft":"feather", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"vegetables", "points":3,
+    "pointsRes":"", "requiredRes":["vegetables", "vegetables", "vegetables"]
+  },
+  "37" : {
+    "front":{"topLeft":"parchment", "topRight":"blank", "bottomLeft":"", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"vegetables", "points":3,
+    "pointsRes":"", "requiredRes":["vegetables", "vegetables", "vegetables"]
+  },
+  "38" : {
+    "front":{"topLeft":"", "topRight":"ink", "bottomLeft":"", "bottomRight":"blank"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"vegetables", "points":3,
+    "pointsRes":"", "requiredRes":["vegetables", "vegetables", "vegetables"]
+  },
+  "39" : {
+    "front":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"", "bottomRight":""},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank"},
+    "kingdom":"vegetables", "points":5,
+    "pointsRes":"", "requiredRes":["vegetables", "vegetables", "vegetables", "vegetables", "vegetables"]
+  }
+}
