@@ -1,0 +1,26 @@
+{
+  "0" : {
+    "front":{"topLeft":"mushrooms", "topRight":"vegetables", "bottomLeft":"insects", "bottomRight":"animals"},
+    "back":{"topLeft":"blank", "topRight":"vegetables", "bottomLeft":"insects", "bottomRight":"blank", "middle":["insects"]}
+  },
+  "1" : {
+    "front":{"topLeft":"vegetables", "topRight":"animals", "bottomLeft":"mushrooms", "bottomRight":"insects"},
+    "back":{"topLeft":"animals", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"mushrooms", "middle":["mushrooms"]}
+  },
+  "2" : {
+    "front":{"topLeft":"insects", "topRight":"animals", "bottomLeft":"mushrooms", "bottomRight":"vegetables"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank", "middle":["vegetables", "mushrooms"]}
+  },
+  "3" : {
+    "front":{"topLeft":"vegetables", "topRight":"insects", "bottomLeft":"animals", "bottomRight":"mushrooms"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"blank", "bottomRight":"blank", "middle":["animals", "insects"]}
+  },
+  "4" : {
+    "front":{"topLeft":"insects", "topRight":"mushrooms", "bottomLeft":"vegetables", "bottomRight":"animals"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"", "bottomRight":"", "middle":["animals", "insects", "vegetables"]}
+  },
+  "5" : {
+    "front":{"topLeft":"mushrooms", "topRight":"animals", "bottomLeft":"vegetables", "bottomRight":"insects"},
+    "back":{"topLeft":"blank", "topRight":"blank", "bottomLeft":"", "bottomRight":"", "middle":["vegetables", "animals", "mushrooms"]}
+  }
+}

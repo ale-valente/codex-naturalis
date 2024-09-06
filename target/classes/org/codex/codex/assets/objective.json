@@ -1,0 +1,106 @@
+{
+  "0":{
+    "points":2,
+    "card":{
+      "0":{"type":"mushrooms", "pos":""},
+      "1":{"type":"mushrooms", "pos":"angleBottomLeft"},
+      "2":{"type":"mushrooms", "pos":"angleBottomLeft"}},
+    "res":[]
+  },
+  "1":{
+    "points":2,
+    "card":{
+      "0":{"type":"vegetables", "pos":""},
+      "1":{"type":"vegetables", "pos":"angleTopLeft"},
+      "2":{"type":"vegetables", "pos":"angleTopLeft"}},
+    "res":[]
+  },
+  "2":{
+    "points":2,
+    "card":{
+      "0":{"type":"animals", "pos":""},
+      "1":{"type":"animals", "pos":"angleTopRight"},
+      "2":{"type":"animals", "pos":"angleTopRight"}},
+    "res":[]
+  },
+  "3":{
+    "points":2,
+    "card":{
+      "0":{"type":"insects", "pos":""},
+      "1":{"type":"insects", "pos":"angleTopLeft"},
+      "2":{"type":"insects", "pos":"angleTopLeft"}},
+    "res":[]
+  },
+  "4":{
+    "points":3,
+    "card":{
+      "0":{"type":"mushrooms", "pos":""},
+      "1":{"type":"mushrooms", "pos":"top"},
+      "2":{"type":"vegetables", "pos":"angleTopLeft"}},
+    "res":[]
+  },
+  "5":{
+    "points":3,
+    "card":{
+      "0":{"type":"vegetables", "pos":""},
+      "1":{"type":"vegetables", "pos":"top"},
+      "2":{"type":"insects", "pos":"angleTopRight"}},
+    "res":[]
+  },
+  "6":{
+    "points":3,
+    "card":{
+      "0":{"type":"mushrooms", "pos":""},
+      "1":{"type":"animals", "pos":"angleTopRight"},
+      "2":{"type":"animals", "pos":"top"}},
+    "res":[]
+  },
+  "7":{
+    "points":3,
+    "card":{
+      "0":{"type":"animals", "pos":""},
+      "1":{"type":"insects", "pos":"angleTopLeft"},
+      "2":{"type":"insects", "pos":"top"}},
+    "res":[]
+  },
+  "8":{
+    "points":2,
+    "card":{"0":{"type":"", "pos":""},"1":{"type":"", "pos":""},"2":{"type":"", "pos":""}},
+    "res":["mushrooms", "mushrooms", "mushrooms"]
+  },
+  "9":{
+    "points":2,
+    "card":{"0":{"type":"", "pos":""},"1":{"type":"", "pos":""},"2":{"type":"", "pos":""}},
+    "res":["vegetables", "vegetables", "vegetables"]
+  },
+  "10":{
+    "points":2,
+    "card":{"0":{"type":"", "pos":""},"1":{"type":"", "pos":""},"2":{"type":"", "pos":""}},
+    "res":["animals", "animals", "animals"]
+  },
+  "11":{
+    "points":2,
+    "card":{"0":{"type":"", "pos":""},"1":{"type":"", "pos":""},"2":{"type":"", "pos":""}},
+    "res":["insects", "insects", "insects"]
+  },
+  "12":{
+    "points":3,
+    "card":{"0":{"type":"", "pos":""},"1":{"type":"", "pos":""},"2":{"type":"", "pos":""}},
+    "res":["feather", "ink", "parchment"]
+  },
+  "13":{
+    "points":2,
+    "card":{"0":{"type":"", "pos":""},"1":{"type":"", "pos":""},"2":{"type":"", "pos":""}},
+    "res":["parchment", "parchment"]
+  },
+  "14":{
+    "points":2,
+    "card":{"0":{"type":"", "pos":""},"1":{"type":"", "pos":""},"2":{"type":"", "pos":""}},
+    "res":["ink", "ink"]
+  },
+  "15":{
+    "points":2,
+    "card":{"0":{"type":"", "pos":""},"1":{"type":"", "pos":""},"2":{"type":"", "pos":""}},
+    "res":["feather", "feather"]
+  }
+}
